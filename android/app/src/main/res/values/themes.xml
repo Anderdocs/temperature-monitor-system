@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TemperatureMonitor" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.TemperatureMonitor" parent="Base.Theme.TemperatureMonitor" />
+</resources>

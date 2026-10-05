@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Temperature Monitor</string>
+
+    <string name="location_not_selected_multiline">Місце:\n(не вибрано)</string>
+    <string name="location_not_selected_multiline_empty_list">Місце:\n(немає локацій)</string>
+
+    <string name="current_temp_placeholder">Поточна:\n-- °C</string>
+    <string name="current_temp_placeholder_loading">Поточна:\n(завантаження...)</string>
+    <string name="current_temp_placeholder_error">Поточна:\n(помилка)</string>
+
+    <string name="mean_temp_placeholder">Середня за сьогодні:\n-- °C</string>
+    <string name="mean_temp_placeholder_loading">Середня за сьогодні:\n(завантаження...)</string>
+    <string name="mean_temp_placeholder_no_data">Середня за сьогодні:\n(немає даних)</string>
+
+    <string name="loading_data">Завантаження даних...</string>
+    <string name="no_data_available">Немає даних</string>
+    <string name="time_unknown">(час невідомий)</string>
+    <string name="location_data_loading">(дані завантажуються...)</string>
+    <string name="location_data_error">(помилка даних)</string>
+
+</resources>
